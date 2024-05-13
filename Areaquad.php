@@ -26,6 +26,5 @@ $quadrado->setLado(5.0); // Define o lado como 5.0
 $area = $quadrado->calculaArea(); // Calcula a área
 echo "A área do quadrado é: " . $area . " unidades quadradas.";
 ?>
-
 </body>
 </html>
